@@ -8,7 +8,7 @@ export function renderizarCatalogo() {
     }' id="card-produto-${produtoCatalogo.id}">
         <img
         src="./assets/img/${produtoCatalogo.imagem}"
-        alt="Produto 1 do Magazine Hashtag."
+        alt="Produto 1 do Magazine ."
         class='group-hover:scale-110 duration-300 my-3 rounded-lg'
         />
         <p class='text-sm'>${produtoCatalogo.marca}</p>
