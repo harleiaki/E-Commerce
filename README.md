@@ -11,3 +11,4 @@ https://tailwindcss.com/
 
 https://fontawesome.com/
 
+Node --version v18.15.0
